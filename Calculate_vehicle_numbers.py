@@ -1,3 +1,9 @@
+''' An automobile company manufactures both a two wheeler (TW) and a fourwheeler.
+    A company manager wants to make the production of both types of vehicle according to the given data below:
+    ● 1st data, Total number of vehicle (two-wheeler + four-wheeler) = v
+    ● 2nd data, Total number of wheels = W
+    The task is to find how many two-wheelers as well as four-wheelers need to manufacture as per the given data.
+    '''
 def calculate_vehicle_numbers(total_vehicles, total_wheels):
     wheels_per_two_wheeler = 2
     wheels_per_four_wheeler = 4
