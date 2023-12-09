@@ -11,9 +11,7 @@ def max_subarray_sum(arr):
 
     return max_sum
 
-# Example usage:
 if __name__ == "__main__":
-    # Sample array (you can replace it with your actual data)
     array = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
 
     result = max_subarray_sum(array)
